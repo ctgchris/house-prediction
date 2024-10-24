@@ -1,2 +1,2 @@
-# ctgchris.github.io
+# House Price Evaluation
 Housing Price Evaluation
